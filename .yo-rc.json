@@ -2,7 +2,8 @@
   "generator-jhipster": {
     "promptValues": {
       "packageName": "fr.chocolateroad.gateway",
-      "nativeLanguage": "fr"
+      "nativeLanguage": "fr",
+      "microservicePath": "../shop"
     },
     "jhipsterVersion": "6.0.0",
     "applicationType": "gateway",
